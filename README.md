@@ -5,6 +5,10 @@
   <h1 align="center">Arduino Obstacle Avoiding Car</h1>
 </p>
 
+<p align="center">
+  <img src="images/IMG_1675.jpg" alt="Vista superior do robô" width="45%">
+</p>
+
 ## :dart: Conceito
 
 > Carrinho robótico autônomo desenvolvido com Arduino capaz de navegar por um ambiente, detectar obstáculos utilizando um sensor ultrassônico e decidir automaticamente para qual direção seguir.
@@ -53,13 +57,12 @@ Para reduzir erros nas leituras do HC-SR04, o código realiza múltiplas mediç�
 Abaixo estão algumas imagens do protótipo montado.
 
 <p align="center">
-  <img src="images/robo-superior.jpg" alt="Vista superior do robô" width="45%">
-  <img src="images/robo-eletronica.jpg" alt="Detalhe da eletrônica do robô" width="45%">
+  <img src="images/IMG_1675.jpg" alt="Vista superior do robô" width="45%">
 </p>
 
-```markdown
-![Demonstração do robô](images/demo.gif)
-```
+<p align="center">
+  <img src="images/ezgif-3ac6fd1b0a7e19ff.gif" alt="Demonstração do robô" width="55%">
+</p>
 
 ## 🔩 Componentes utilizados
 
